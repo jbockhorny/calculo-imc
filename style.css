@@ -1,0 +1,20 @@
+body{
+    font-family: Sans-serif
+}
+
+img{
+    float: left;
+    height: 300px;
+    width: auto;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto 0;
+    padding: 16px;
+}
+div{
+    padding-left: 16px
+}
